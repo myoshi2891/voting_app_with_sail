@@ -6707,16 +6707,16 @@
         },
         {
             "name": "maximebf/debugbar",
-            "version": "v1.22.3",
+            "version": "v1.22.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/maximebf/php-debugbar.git",
-                "reference": "7aa9a27a0b1158ed5ad4e7175e8d3aee9a818b96"
+                "reference": "1b5cabe0ce013134cf595bfa427bbf2f6abcd989"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/maximebf/php-debugbar/zipball/7aa9a27a0b1158ed5ad4e7175e8d3aee9a818b96",
-                "reference": "7aa9a27a0b1158ed5ad4e7175e8d3aee9a818b96",
+                "url": "https://api.github.com/repos/maximebf/php-debugbar/zipball/1b5cabe0ce013134cf595bfa427bbf2f6abcd989",
+                "reference": "1b5cabe0ce013134cf595bfa427bbf2f6abcd989",
                 "shasum": ""
             },
             "require": {
@@ -6769,9 +6769,9 @@
             ],
             "support": {
                 "issues": "https://github.com/maximebf/php-debugbar/issues",
-                "source": "https://github.com/maximebf/php-debugbar/tree/v1.22.3"
+                "source": "https://github.com/maximebf/php-debugbar/tree/v1.22.5"
             },
-            "time": "2024-04-03T19:39:26+00:00"
+            "time": "2024-09-09T08:05:55+00:00"
         },
         {
             "name": "mockery/mockery",
